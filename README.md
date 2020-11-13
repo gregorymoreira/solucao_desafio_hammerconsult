@@ -23,13 +23,13 @@ Para o problema, temos:
 
 Os endpoints acima foram desenvolvidos com uma projeção de utilizar o cpf como chave primária informada sempre pela URL, com os outros parâmetros sendo passados por JSON e conseguir operar para qualquer situação. Um convidado não pode ir sem a pessoa que o convidou para a festa, mas um funcionário pode ir ao churras sem um convidado.
 
-Os atributos que podem ser passados são:\\
-    {\\
-        "nome": "STRING",\\
-        "bebe": "INTEGER",\\
-        "convidado": "STRING",\\
-        "convidado_bebe": "INTEGER"\\
-    }\\
+Os atributos que podem ser passados são:\
+    {\
+        "nome": "STRING",\
+        "bebe": "INTEGER",\
+        "convidado": "STRING",\
+        "convidado_bebe": "INTEGER"\
+    }\
     
 Os atributos "bebe" e "convdado_bebe" foram desenvolvidos em uma proposta de "SIM" e "NAO" equivalendo a 1 e 0 respectivamente.
 
