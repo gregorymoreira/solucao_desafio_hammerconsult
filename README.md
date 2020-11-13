@@ -29,7 +29,7 @@ Os atributos que podem ser passados são:\
         "bebe": "INTEGER",\
         "convidado": "STRING",\
         "convidado_bebe": "INTEGER"\
-    }\
+    }
     
 Os atributos "bebe" e "convdado_bebe" foram desenvolvidos em uma proposta de "SIM" e "NAO" equivalendo a 1 e 0 respectivamente.
 
